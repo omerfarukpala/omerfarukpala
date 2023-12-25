@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ömer Faruk Pala</h1>
-<h3 align="center">A passionate game developer-electronics and communication engineer from Turkiye.</h3>
+<h3 align="center">A passionate Data Scientist-electronics and communication engineer from Turkiye.</h3>
 
 - 🌱 I’m currently learning **python , ML**
 
